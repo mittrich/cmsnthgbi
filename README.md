@@ -12,6 +12,7 @@ AI Perplexity
 web: nhachayvn.net
 
 <h1>Update</h1>
+
 - thêm nhạc trực tiếp ở trong file chứ không lấy nguồn trên mạng nữa
 
 - vào web tương tác phát là chúc mừng sinh nhật ầm ầm luôn, skip được đoạn guitar ở đầu nhạc gốc
