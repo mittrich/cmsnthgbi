@@ -6,6 +6,11 @@ vkl chuc mung sinh nhat thg cho bi, chuc m hay an chong lon
 tôi không phải dev, chỉ là một thg dở hơi thích nghịch AI để cố tỏ ra ngầu lòi
 
 nguồn được sử dụng:
+
 AI Perplexity
 
 web: nhachayvn.net
+
+<h1>Update</h1>
+- thêm nhạc trực tiếp ở trong file chứ không lấy nguồn trên mạng nữa
+- vào web tương tác phát là chúc mừng sinh nhật ầm ầm luôn, skip được đoạn guitar ở đầu nhạc gốc
